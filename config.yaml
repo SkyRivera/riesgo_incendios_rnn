@@ -1,0 +1,7 @@
+data:
+  raw_path: "data/raw/"
+  processed_path: "data/processed/"
+  training_inputs_dataset: "entradas_entrenamiento.csv"
+  training_output_dataset: "salidas_entrenamiento.csv"
+  testing_inputs_dataset: "entradas_prueba.csv"
+  testing_output_dataset: "salidas_prueba.csv"
